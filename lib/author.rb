@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require 'pry'
 
 class Author
@@ -26,3 +27,9 @@ class Author
     self.add_post(post)
  end
 end
+=======
+class Author
+
+end
+
+>>>>>>> 31152ab0f6d6d13aa1c723bc83a77008dcde07ff

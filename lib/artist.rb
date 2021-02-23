@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require 'pry'
 
 class Artist
@@ -28,3 +29,8 @@ class Artist
     self.add_song(song)
  end
 end
+=======
+class Artist
+
+end
+>>>>>>> 31152ab0f6d6d13aa1c723bc83a77008dcde07ff

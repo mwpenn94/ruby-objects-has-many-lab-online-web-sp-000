@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require 'pry'
 
 class Song
@@ -22,3 +23,11 @@ class Song
     self.artist ? self.artist.name : nil
   end
 end
+=======
+class Song
+	attr_accessor	:artist
+
+	@@all = []
+end
+
+>>>>>>> 31152ab0f6d6d13aa1c723bc83a77008dcde07ff

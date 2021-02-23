@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require 'pry'
 
 class Post
@@ -21,4 +22,10 @@ class Post
   def author_name
     self.author ? self.author.name : nil
   end
+=======
+class Post
+	attr_accessor	:author
+
+	@@all = []
+>>>>>>> 31152ab0f6d6d13aa1c723bc83a77008dcde07ff
 end
